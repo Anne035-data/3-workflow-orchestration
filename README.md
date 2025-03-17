@@ -3,6 +3,9 @@
 ## 📋 Overview
 FraudDetection is an end-to-end fraud detection system that processes payment transactions in real-time and provides immediate alerts for suspicious activities. Built with modern data engineering practices, it combines machine learning, real-time processing, and automated monitoring to protect financial transactions.
 
+video : https://www.loom.com/share/26bb3f90d15b413a8dd25342ebdd6768?sid=eda02fc1
+5576-41ef-a3ab-e2af3c41651a 
+
 ## ⚠️ Important Security Notice
 **CRITICAL**: This project contains sensitive configuration files that must be handled with care:
 
